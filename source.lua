@@ -411,7 +411,7 @@ local function stopAntiGucci()
 end
 
 local Button = Tab:CreateButton({
-    Name = "Anti-gucci (Reset to disable)",
+    Name = "Gucci-anti",
     Callback = function()
         spawnBlobman()
         startAntiGucci()
